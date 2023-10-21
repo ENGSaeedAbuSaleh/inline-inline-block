@@ -1,0 +1,23 @@
+.courses{
+    background-color: yellow;
+    color: tomato;
+    width: 900px;
+    /*display: flex;*/
+}
+h1{
+    text-align: center;
+    background-color: teal;
+    color: red;
+}
+.first_course{
+    display: inline-block;
+}
+.second_course{
+    display: inline-block;
+}
+.third_course{
+    display: inline-block;
+}
+.F, .B, .U{
+    background-color: teal;
+}
